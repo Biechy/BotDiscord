@@ -1,0 +1,31 @@
+{
+    "token":"Nzg3MDcyNDI5Mjc2NzkwNzg0.X9PoUg.jpuUGIPy7Tzu7aiQY13rLdG7QOQ",
+    "prefix": "!",
+    "donLucas": "<@252086995881426944>",
+    "ticket":{
+        "category": "787101543198752769",
+        "roles":[]
+    },
+    "reclamation":{
+        "category": "787942859704893450",
+        "roles":[]
+    },
+    
+    "reactionTicket": {
+        "789447212471156736": {  
+            "emojis": [{
+                "id": "789450125281984542",
+                "name": "🎫"
+            }]
+        },
+        "789874537088417812": {
+            "emojis": [{
+                "id":"787945770442686475",
+                "name": "🛸"
+            }]
+        }
+    }
+    
+    
+    
+}
