@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "boutique-promo",
-  "private_key_id": "9bd20cba422f7c932e99791b73e6812d394c298a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZb6UBM7xJqlsb\nmtJP6lNgSVxrlMlvL8mx3t3aeaCTtK79AOySAKFGo9twIzyK3j++sdhUean8uf9W\ng4el/lJZBJuX1NAgLf5CyMASB/jqSyNMSzwGfMUROciKM5W83g4jk82Z7iUBmy1p\nwWS87HdEfQ4SAMQjLJCMA9ibIRXIwTVYB1uphR11di2zJPBZ0ZJBcAjPZDTi65Zx\ncCOMSx0nTGKrG4+IHOjiwcZDtl2sn1EsQ9hFf7D6kwU2VEVEVpkhAItV/p11YJC3\n+LZOyyQ5ydbmc2Hl+O4ZIvwD/HHdRYNmmO9VsUeooPi3vQ/+tO2u3qJO84D1mOYq\ntVjsJVl1AgMBAAECggEADUIfcPYme/sTelQrfipSYAyWxtkJeukXNZ57byh5XqoL\nQON2jbsuNGtuR8dTsPA5c+HsPohwztzHmpMtAoPyW6zRQRJrlYxD30N3jVdRA/XQ\nLASIQEtBwBZNJNwGQVayxBI+fuGcIwJkrzG94bFRMQLZV2bni96K8v5WFjmKp1kg\nUHmtQ8sRHvibMXU4IX/s5Jgh6YqpyCcbzVqSJTJ4OBOHzcVSdbWqitf5vcYHqm3A\nlk50oACsCgsqF4IHetvrs32BargjqrRGsRBLAbViKtj7YbbikK9LO3n2P0cvBy2r\n6VUGVgKsLonMgPMGnvOLcohx3flo1MP7RYWm0jv81QKBgQDS7mqa4XAgJruXXJR6\nHYVFyI1U1dgQdDULEiqWKysT66m5kAiJGOp63uOOU1wQEnaBQpmPINe9VKgN/q2n\njNubcP4rnVOO5iL+R7RXTdTTenMqIcmZs51AIp7d1rUlS9cYABtc0yRg9B6OQNrr\npvjstjsjEgQXZw2JkvRRSG6w2wKBgQC6OFamlhHIpCKB/h+Oen+ieack6dXEjziO\n4Jag9sYDPbnm19kECXp57Sa/S9Bzdr6T96G+s9q3RCDvaV8leXw7PTj8kzZ0MGbI\nIKkWFjyGiCK5H4PAWbGHabEFCBmVD8t+ehzY2TWZqj+lJx3VO9XAxo47dKlOmzXg\nQRkeyjzH7wKBgG/g54h49KkJAk0ZXOOcjtjhtB0AQ9cOXCggHZiDExlA0UhMXkqh\nfZVobZhLHLSlplePRLXG/Mc+hNjPcbpCGyVKfHYTv4M3C+6Fh+EatjzpYPZC75Rn\n0Yt4EX2m6XP70v226MyGbXBDa4WWXsfJS5T6X0mNv7/N+D81RANtANErAoGBALG1\nA9PTUENFhvzAUsL32YdmSoAqeeoqttF6N6SB+nKrXBWUFDALD4r9KkXRhqo5PiMc\nZIkFP4o2hKuTxc2QQmKRySkXHxb//YWrzVAbhkTn8yLwlR1hOs47qUdg9HDQcuRO\nierSVZk/456qVojfodtmX+MTMGKoMWDBHsTIP/qXAoGANPpYieYFYi/tyvXLnT9t\nyevTCGQHZ4fc/2hsD4thLZEUbDQ1+F9jzpqlPwpaonS+AYoVhC2M7ML9k0nrC1a0\nq6efJEq4K1OnKwFeAPZy+ZBc6KifaT5JywkMMGvzceIcEnwBeggQ+TsEVYWficrU\nw9yWARPqlXqhcP+/uvt6n8g=\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY----------END PRIVATE KEY-----\n",
   "client_email": "boutiquepromolddmpsi@boutique-promo.iam.gserviceaccount.com",
-  "client_id": "115820517291064625857",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
